@@ -1,0 +1,5 @@
+for Compiling use ( Replace filename with .cpp file)
+	g++ filename.cpp -lGL -lGLU -lglut
+	
+Rotating about Y axis is automated but can rotate about y and z axis as well
+	press x to rotate along x axis and z to rotate along z axis

@@ -1,0 +1,29 @@
+------------------Assignment 4 ---------------
+------------------170101064-------------------
+
+
+
+for Compiling use ( Replace filename with .cpp file)
+	g++ filename.cpp -lGL -lGLU -lglut
+	
+	
+execute a.out file
+
+rotate about 'x' axis left mouse click + move mouse pointer along x axis - can be rotated clock wise and counter clock wise
+rotate about 'y' axis left mouse click + move mouse pointer along y axis - can be rotated clock wise and counter clock wise
+rotate about 'z' axis right mouse click + move mouse pointer along z axis - can be rotated clock wise and counter clock wise
+
+use scroll to zoom image
+
+press 'r' to reset model to original position.
+
+can use 'x' key and 'X' key to move along x axis clock wise and counter clockwise respectively.
+can use 'y' key and 'Y' key to move along y axis clock wise and counter clockwise respectively.
+can use 'z' key and 'Z' key to move along z axis clock wise and counter clockwise respectively.
+
+up_arrow - to translate along +y axis
+down_arrow - to translate along -y axis
+left_arrw - to translate along -x axis
+right_arrow - to translate along +x axis
+
+
